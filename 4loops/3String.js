@@ -4,7 +4,7 @@ for(let i of str){
     console.log(i);
 }
 // h i
-
+console.log("for of string");
 let str1="Shriram"
 for(let i of str1){
     console.log(i);
